@@ -1,7 +1,12 @@
 # x390-EFI-Monterey
+<<<<<<< HEAD
 
 机型： thinkpad x390
 引导：opencore 0.7.5
+=======
+机型： thinkpad x390
+引导：opencore 0.7.5 
+>>>>>>> master
 系统版本： Macos12.0.1 Monterey
 
 正常驱动：
